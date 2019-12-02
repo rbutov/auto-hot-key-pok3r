@@ -24,14 +24,10 @@ Capslock & i up::Send {Blind}{Up Up}
 Capslock & l::Send {Blind}{Right DownTemp}
 Capslock & l up::Send {Blind}{Right Up}
 
-
 // Capslock + uohy (pgdown, pgup, home, end)
 
 Capslock & h::SendInput {Blind}{Home Down}
 Capslock & h up::SendInput {Blind}{Home Up}
-
-Capslock & n::SendInput {Blind}{End Down}
-Capslock & n up::SendInput {Blind}{End Up}
 
 Capslock & u::SendInput {Blind}{PgUp Down}
 Capslock & u up::SendInput {Blind}{PgUp Up}
